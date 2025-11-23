@@ -1,1 +1,1 @@
-print "Wassup Buddy!! vASH auto poll")
+print ("Wassup Buddy!! vASH auto poll")
